@@ -1,7 +1,7 @@
 ---
 name: upkuajing-customs-trade-company-search
 description: "Access global customs trade data from 220+ countries. Search import‑export records via companies, HS codes and products. Find genuine buyers and monitor competitors for your export business.\n\nTrigger: global customs trade data, import export records lookup, HS‑code search, find overseas buyers, competitor trade monitoring, bulk trade‑data search"
-metadata: {"version":"1.0.8","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏢","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.9","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏢","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # UpKuaJing Customs Trade Company Search
